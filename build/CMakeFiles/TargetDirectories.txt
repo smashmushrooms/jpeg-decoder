@@ -1,0 +1,4 @@
+/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/Second term/shad-cpp/jpeg-decoder/build/CMakeFiles/rebuild_cache.dir
+/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/Second term/shad-cpp/jpeg-decoder/build/CMakeFiles/edit_cache.dir
+/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/Second term/shad-cpp/jpeg-decoder/build/CMakeFiles/my_test.dir
+/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/Second term/shad-cpp/jpeg-decoder/build/CMakeFiles/decoder-lib.dir

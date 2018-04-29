@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="jpeg-decoder"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dev_test">
+				<Option output="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug/dev_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 dev_test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dev_test/fast">
+				<Option output="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug/dev_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 dev_test/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_progressive">
+				<Option output="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug/test_progressive" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_progressive"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_progressive/fast">
+				<Option output="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug/test_progressive" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_progressive/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_baseline">
+				<Option output="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug/test_baseline" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_baseline"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_baseline/fast">
+				<Option output="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug/test_baseline" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_baseline/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test-lib">
+				<Option output="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug/libtest-lib.dylib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 test-lib"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test-lib/fast">
+				<Option output="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug/libtest-lib.dylib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 test-lib/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="decoder-lib">
+				<Option output="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug/libdecoder-lib.dylib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 decoder-lib"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="decoder-lib/fast">
+				<Option output="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug/libdecoder-lib.dylib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 decoder-lib/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/starlight/Desktop/Yandex.Disk/Yandex\ Data\ Science\ School/C++/jpeg-decoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/decoder.cpp">
+			<Option target="decoder-lib"/>
+		</Unit>
+		<Unit filename="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/decoder.h">
+			<Option target="decoder-lib"/>
+		</Unit>
+		<Unit filename="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/dev_test.cpp">
+			<Option target="dev_test"/>
+		</Unit>
+		<Unit filename="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/test.cpp">
+			<Option target="test-lib"/>
+		</Unit>
+		<Unit filename="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/FindFFTW.cmake">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

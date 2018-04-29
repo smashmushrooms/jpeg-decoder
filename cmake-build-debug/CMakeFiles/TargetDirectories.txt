@@ -1,0 +1,7 @@
+/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug/CMakeFiles/dev_test.dir
+/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug/CMakeFiles/test_progressive.dir
+/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug/CMakeFiles/test_baseline.dir
+/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug/CMakeFiles/test-lib.dir
+/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug/CMakeFiles/decoder-lib.dir

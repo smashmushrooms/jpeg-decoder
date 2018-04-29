@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/decoder.h
+image.h
+/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/image.h
+string
+-
+fstream
+-
+iostream
+-
+cmath
+-
+cassert
+-
+bitset
+-
+unordered_map
+-
+list
+-
+
+/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/dev_test.cpp
+decoder.h
+/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/decoder.h
+image.h
+/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/image.h
+iostream
+-
+bitset
+-
+ios
+-
+cassert
+-
+
+/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/image.h
+vector
+-
+cstddef
+-
+string
+-
+

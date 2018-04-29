@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -lfftw3 -lm -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/dev_test.dir/dev_test.cpp.o  -o dev_test -Wl,-rpath,"/Users/starlight/Desktop/Yandex.Disk/Yandex Data Science School/C++/jpeg-decoder/cmake-build-debug" libtest-lib.dylib libdecoder-lib.dylib 

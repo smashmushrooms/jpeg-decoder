@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -lfftw3 -lm -g -dynamiclib -Wl,-headerpad_max_install_names  -o libtest-lib.dylib -install_name @rpath/libtest-lib.dylib CMakeFiles/test-lib.dir/test.cpp.o 

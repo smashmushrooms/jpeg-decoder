@@ -1,0 +1,13 @@
+# ninja log v5
+2	623	1519595517	CMakeFiles/decoder-lib.dir/decoder.cpp.o	a70de2b0c44c768
+625	668	1519595517	libdecoder-lib.a	3f187894785d25b5
+2	672	1519595517	CMakeFiles/my_test.dir/my_test.cpp.o	68ef04f8d1d4039
+672	706	1519595517	my_test	801c5549aaaefe9d
+2	3818	1519595520	CMakeFiles/test_baseline.dir/Users/starlight/Desktop/Yandex.Disk/Yandex_Data_Science_School/C++/Second_term/shad-cpp/contrib/catch_main.cpp.o	cb617900c9a77e19
+1	3828	1519595521	CMakeFiles/test_progressive.dir/Users/starlight/Desktop/Yandex.Disk/Yandex_Data_Science_School/C++/Second_term/shad-cpp/contrib/catch_main.cpp.o	860823f8f4cfdeb2
+0	82	1519595585	build.ninja	7a74c8a237302e1c
+0	83	1519595647	build.ninja	7a74c8a237302e1c
+2	419	1519595647	CMakeFiles/decoder-lib.dir/decoder.cpp.o	32a92be8e682040a
+1	439	1519595647	CMakeFiles/my_test.dir/my_test.cpp.o	be510265a76439a0
+419	448	1519595647	libdecoder-lib.a	3f187894785d25b5
+448	478	1519595648	my_test	133b1a46d8ccdff7
